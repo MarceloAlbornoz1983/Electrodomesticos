@@ -42,12 +42,7 @@ public class Main {
 				totalTelevisores += electrodomesticos[i].precioFinal();
 			}
 		}
-
-//		for (int i = 0; i < electrodomesticos.length; i++) {
-//			
-//			System.out.println("Electrodemistico " + (i+1) + ": " + electrodomesticos[i].getPrecioBase() + " ," + electrodomesticos[i].getConsumoEnergetico() + " ," + electrodomesticos[i].getPeso() + " ," + electrodomesticos[i].getColor());
-//		}
-//		
+	
 		System.out.println("El precio total de todos los electrodomesticos es: " + totalElectrodomesticos);
 		System.out.println("El precio total de las Lavadoras es: " + totalLavadoras);
 		System.out.println("El precio total de los Televisores es: " + totalTelevisores);

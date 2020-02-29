@@ -78,5 +78,4 @@ public class Television extends Electrodomestico {
 		return acumuladorPrecioTelevision;
 
 	}
-
 }

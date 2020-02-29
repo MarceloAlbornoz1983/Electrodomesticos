@@ -176,5 +176,4 @@ public class Electrodomestico {
 		return precioBase + acumuladorPrecioElectrodomestico;
 
 	}
-
 }
